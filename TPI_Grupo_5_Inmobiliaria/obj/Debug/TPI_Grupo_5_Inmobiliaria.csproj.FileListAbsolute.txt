@@ -1,1 +1,10 @@
 \\Vboxsvr\utn\TPI Lab II - Prog II\TPI_Grupo_5_Inmobiliaria\TPI_Grupo_5_Inmobiliaria\bin\Debug\TPI_Grupo_5_Inmobiliaria.exe.config
+D:\UTN\2do_Cuatrimestre\Programacion 2\TrabajoPractico\tpi_grupo_5_inmobiliaria\TPI_Grupo_5_Inmobiliaria\bin\Debug\TPI_Grupo_5_Inmobiliaria.exe.config
+D:\UTN\2do_Cuatrimestre\Programacion 2\TrabajoPractico\tpi_grupo_5_inmobiliaria\TPI_Grupo_5_Inmobiliaria\bin\Debug\TPI_Grupo_5_Inmobiliaria.exe
+D:\UTN\2do_Cuatrimestre\Programacion 2\TrabajoPractico\tpi_grupo_5_inmobiliaria\TPI_Grupo_5_Inmobiliaria\bin\Debug\TPI_Grupo_5_Inmobiliaria.pdb
+D:\UTN\2do_Cuatrimestre\Programacion 2\TrabajoPractico\tpi_grupo_5_inmobiliaria\TPI_Grupo_5_Inmobiliaria\obj\Debug\TPI_Grupo_5_Inmobiliaria.csprojAssemblyReference.cache
+D:\UTN\2do_Cuatrimestre\Programacion 2\TrabajoPractico\tpi_grupo_5_inmobiliaria\TPI_Grupo_5_Inmobiliaria\obj\Debug\TPI_Grupo_5_Inmobiliaria.Properties.Resources.resources
+D:\UTN\2do_Cuatrimestre\Programacion 2\TrabajoPractico\tpi_grupo_5_inmobiliaria\TPI_Grupo_5_Inmobiliaria\obj\Debug\TPI_Grupo_5_Inmobiliaria.csproj.GenerateResource.cache
+D:\UTN\2do_Cuatrimestre\Programacion 2\TrabajoPractico\tpi_grupo_5_inmobiliaria\TPI_Grupo_5_Inmobiliaria\obj\Debug\TPI_Grupo_5_Inmobiliaria.csproj.CoreCompileInputs.cache
+D:\UTN\2do_Cuatrimestre\Programacion 2\TrabajoPractico\tpi_grupo_5_inmobiliaria\TPI_Grupo_5_Inmobiliaria\obj\Debug\TPI_Grupo_5_Inmobiliaria.exe
+D:\UTN\2do_Cuatrimestre\Programacion 2\TrabajoPractico\tpi_grupo_5_inmobiliaria\TPI_Grupo_5_Inmobiliaria\obj\Debug\TPI_Grupo_5_Inmobiliaria.pdb
